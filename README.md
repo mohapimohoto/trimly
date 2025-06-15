@@ -26,3 +26,7 @@ Trimly is a sleek, mobile-first app that lets customers book barbershop appointm
 cd server
 npm install
 npm run dev
+
+cd client
+npm install
+npm start

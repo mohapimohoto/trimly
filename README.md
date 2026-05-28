@@ -1,6 +1,11 @@
-✂️ Trimly — Barbershop Booking Platform
+#✂️ Trimly — Barbershop Booking Platform
 
 Trimly is a modern mobile-first booking platform designed to simplify appointment management for both customers and barbers. The application allows users to discover barbershops, schedule appointments seamlessly, and helps barbers manage bookings, availability, and daily operations efficiently.
+
+<img width="1169" height="760" alt="Screenshot 2026-05-28 163815" src="https://github.com/user-attachments/assets/20dbb010-2ce4-4621-9b4c-a66e9f056ef4" />
+
+
+
 
 ✨ Features
 Customer Features
